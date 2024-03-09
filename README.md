@@ -38,6 +38,7 @@ Among the 4-product category, Bikes 81% of the share revenue. Also, Road Bikes i
 
 *Profit Margin DrillThrough Page**
 ![DrillThrough](https://github.com/Ainaganiu/AdventureWorks-Analysis-with-Microsoft-Fabric-and-SQL-Server/blob/main/Pictures/DrillThrough_1st.png)
+
 ![DrillThrough](https://github.com/Ainaganiu/AdventureWorks-Analysis-with-Microsoft-Fabric-and-SQL-Server/blob/main/Pictures/DrillThrough_Page.png)
 
 Among the five countries that were analysed the united has the (62.70%) of contribution towards the total revenue with profit of 57 million dollars profit. Canada has the highest profit margin 38%, which implied that the company retain 38% of their revenue (sales) has profit. This can be attributed operating cost of doing business in Canada compared to other region the company is operating.
@@ -50,6 +51,8 @@ Improvement in advertising and promotion about company products in Australia and
 
 ## Dashboard
 [Click here to view the dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiN2E1OTE4ZDEtY2I5MS00ODM1LTgyZTctNjkyYjIzZjUxMzAyIiwidCI6IjUzNjJiMjkyLTI2ZGEtNGE2Yi05OWQ3LWM5ZjJiZWRiOWE2YyIsImMiOjh9) 
+
+Thank you for Reading!!!!
 
 
 
