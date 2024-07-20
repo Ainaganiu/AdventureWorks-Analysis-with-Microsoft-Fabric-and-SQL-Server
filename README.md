@@ -4,7 +4,7 @@ The objective of this project is to create an interactive dashboard that enable 
 ## About the Dataset
 The dataset used for this project is a backup database file (.bak) that has been imported into the MySQL database. The backup database file was downloaded from [Microsoft Learn](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms).
 
-## Project Architectuer
+## Project Architecture
 
 This project maximizes the capabilities of Microsoft Fabric by seamlessly extracting data from a VIEW in my SQL Server and loading it into Microsoft Fabric to create a dynamic and interactive dashboard. The first step involved establishing an On-Premises gateway connection to facilitate seamless communication between Microsoft Fabric and SQL Server and Creating a Workspace in Power BI.
 
